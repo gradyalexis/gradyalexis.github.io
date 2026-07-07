@@ -1,0 +1,220 @@
+{
+  "profile": {
+    "name": "Grady Alexis",
+    "headline": "Frontend Engineer | React.js, Next.js, TypeScript | Building Scalable & Performant Web Apps",
+    "currentPosition": "Frontend Engineer at PT Global Energi Lestari",
+    "region": "Indonesia",
+    "city": "Bandung, West Java, Indonesia",
+    "email": "gradyalexis88@gmail.com",
+    "phoneNumber": "+6282115695542",
+    "whatsapp": "+6282115695542",
+    "linkedin": "https://linkedin.com/in/gradyalexis",
+    "yearsExperience": "3+",
+    "bio": [
+      "I'm a **Frontend Engineer** with {{years}} years building products people actually use — from logistics platforms and travel marketplaces to gold investment apps and enterprise procurement systems.",
+      "My journey started with **Vue.js + Laravel**, evolved through **Nuxt.js** at scale with Evermos, and has now deepened into the **Next.js + TypeScript** ecosystem — crafting modular architectures, SSR patterns, i18n systems, and shared component libraries.",
+      "I care deeply about **clean architecture**, developer experience, and shipping things that are both fast and maintainable. Currently also exploring the AI tooling space, local LLMs, and full-stack territory."
+    ]
+  },
+  "experiences": [
+    {
+      "title": "Frontend Engineer",
+      "employmentType": "Contract",
+      "company": "PT Global Energi Lestari",
+      "startDate": "2026/01/01",
+      "endDate": null,
+      "location": "Bandung, West Java, Indonesia",
+      "locationType": "On-site",
+      "description": "- Developing Procurement Web App & Supplier Web App.\n- Create modular architecture for Procurement & Supplier Web App",
+      "skills": ["next", "ts", "tailwind"]
+    },
+    {
+      "title": "Frontend Engineer",
+      "employmentType": "Freelance",
+      "company": "NARS",
+      "startDate": "2025/05/01",
+      "endDate": "2025/08/01",
+      "location": "Bandung, West Java, Indonesia",
+      "locationType": "On-site",
+      "description": "First React + Next project.\n\nBuilding a gold investment application from scratch based in Saudi Arabia, featuring an interactive control panel display that can enhance the efficiency of financial record-keeping. The technologies we will use are Next.js and TailwindCSS",
+      "skills": ["next", "ts", "tailwind"]
+    },
+    {
+      "title": "Professional Development",
+      "employmentType": "Career Break",
+      "company": "-",
+      "startDate": "2024/09/01",
+      "endDate": "2025/05/01",
+      "location": "Bandung, West Java, Indonesia",
+      "locationType": "Remote",
+      "description": "Focus on learning the React and Next.js frameworks to expand career opportunities and increase competitiveness in the dynamic software development industry.",
+      "skills": ["next", "react"]
+    },
+    {
+      "title": "Frontend Engineer",
+      "employmentType": "Full-time",
+      "company": "Evermos",
+      "startDate": "2022/06/01",
+      "endDate": "2024/06/01",
+      "location": "Bandung, West Java, Indonesia",
+      "locationType": "Hybrid",
+      "description": "Build a Brands Application Management and Everpro Application using Vue.js + Nuxt.js and Tailwind CSS. Develop Everpro Application, for online business management.",
+      "skills": ["nuxt", "ts", "tailwind"]
+    },
+    {
+      "title": "Frontend Engineer",
+      "employmentType": "Contract",
+      "company": "Reusely",
+      "startDate": "2021/06/01",
+      "endDate": "2022/04/01",
+      "location": "Bandung, West Java, Indonesia",
+      "locationType": "On-site",
+      "description": "Build a Share repurchase web application consisting of a landing page, control panel, and user application using Vue.js, Nuxt.js, TypeScript, and TailwindCSS",
+      "skills": ["nuxt", "ts", "react", "tailwind"]
+    },
+    {
+      "title": "Frontend Engineer",
+      "employmentType": "Contract",
+      "company": "Popaket",
+      "startDate": "2020/12/01",
+      "endDate": "2021/05/01",
+      "location": "Bandung, West Java, Indonesia",
+      "locationType": "On-site",
+      "description": "Build a logistics web application consisting of a landing page, control panel, and user application using Vue.js + Nuxt.js, TypeScript and TailwindCSS with good architecture make website better and faster",
+      "skills": ["nuxt", "ts", "tailwind"]
+    },
+    {
+      "title": "Full-stack Developer",
+      "employmentType": "Full-time",
+      "company": "PT Holahalo Mekar Konsep",
+      "startDate": "2019/06/01",
+      "endDate": "2020/08/01",
+      "location": "Bandung, West Java, Indonesia",
+      "locationType": "On-site",
+      "description": "Build a travel marketplace web application called HolaHalo consisting of a Marketplace Application and Control Panel using Vue.js and Laravel. I sometimes work as Backend Developer",
+      "skills": ["vue", "laravel", "bootstrap"]
+    },
+    {
+      "title": "Full-stack Developer",
+      "employmentType": "Internship",
+      "company": "Pondok Huda",
+      "startDate": "2018/09/01",
+      "endDate": "2019/05/01",
+      "location": "Bandung, West Java, Indonesia",
+      "locationType": "On-site",
+      "description": "Build a kos-kosan Web App with monolithic architecture using Laravel.",
+      "skills": ["laravel"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "GEL | Language Service",
+      "description": "- Implement Global Service for Translation for GEL App\n- Improve localization management and centralized localization for GEL App",
+      "technologies": ["next"],
+      "startDate": "2026/04/01",
+      "endDate": null,
+      "associated": "Frontend Engineer at PT Global Energi Lestari"
+    },
+    {
+      "name": "GEL | Procurement - Admin Panel",
+      "description": "- Implemented modular architecture for scalable procurement workflows.\n- Implemented base practice and clean code in next.js\n- Implemented internationalization supported SSR for all procurement modules + submodules",
+      "technologies": ["next"],
+      "startDate": "2026/01/01",
+      "endDate": null,
+      "associated": "Frontend Engineer at PT Global Energi Lestari"
+    },
+    {
+      "name": "NARS | Gold Management Funding & Investment",
+      "description": "Nars is Web App build with Next.js using for managing gold funding or investment for Saudian\n- Implemented next.js with tantstack query\n- Implemented internationalization with arabian langauge with RTL support",
+      "technologies": ["next"],
+      "startDate": "2025/05/01",
+      "endDate": "2025/08/01",
+      "associated": null
+    },
+    {
+      "name": "Everpro | Web Builder",
+      "description": "Everpro Landing Page, is one of the superior features of everpro that allows users to create landing pages that are useful for increasing profit value.",
+      "technologies": ["nuxt"],
+      "startDate": "2023/03/01",
+      "endDate": "2024/07/01",
+      "associated": "Frontend Engineer at Evermos"
+    },
+    {
+      "name": "Everpro | Product",
+      "description": "Everpro | Product serves as a control center for digitally managing your inventory or merchandise. This feature is designed to allow business owners to manage the flow of stock from end-to-end within a single system integrated with shipping and sales services.",
+      "technologies": ["nuxt"],
+      "startDate": "2023/02/01",
+      "endDate": "2024/06/01",
+      "associated": "Frontend Engineer at Evermos"
+    },
+    {
+      "name": "Evermos | Brand Dashboard",
+      "description": "This application is useful to make it easier for users to manage products via a special brand dashboard for the Evermos application.",
+      "technologies": ["nuxt"],
+      "startDate": "2022/06/01",
+      "endDate": "2023/03/01",
+      "associated": "Frontend Engineer at Evermos"
+    },
+    {
+      "name": "Kominfo | SIKS",
+      "description": "An internal application belonging to KOMINFO (now KOMDIGI) which functions for digital archiving management aims to simplify the management, storage and search of documents efficiently.",
+      "technologies": ["vue"],
+      "startDate": "2021/10/01",
+      "endDate": "2021/12/01",
+      "associated": null
+    },
+    {
+      "name": "Resiku",
+      "description": "Digital Platform for tracking last location of shipment, it's fast and accurate, support more logistics, with multi tracking feature, auto tracking, and tracking page.",
+      "technologies": ["vue"],
+      "startDate": "2021/08/01",
+      "endDate": "2021/09/01",
+      "associated": null
+    },
+    {
+      "name": "Popaket | Admin Control Panel",
+      "description": "Built using the same Frontend Architecture as Popaket Landing. Mainly designed for Internal Purposes, *eg: enable/disable a Service, report, CS, finance, etc.",
+      "technologies": ["nuxt"],
+      "startDate": "2020/12/01",
+      "endDate": "2021/05/01",
+      "associated": "Frontend Engineer at Popaket"
+    },
+    {
+      "name": "Popaket | Landing Page",
+      "description": "Responsive Lightweight Landing Page PWA for Popaket, built using Vue Nuxt Framework, Tailwindcss and Typescript. The purpose about this project is success to tell everyone about Popaket.",
+      "technologies": ["nuxt"],
+      "startDate": "2020/12/01",
+      "endDate": "2021/05/01",
+      "associated": "Frontend Engineer at Popaket"
+    },
+    {
+      "name": "Popaket | User App",
+      "description": "Built using the same Frontend Architecture as Popaket Landing. Mainly designed for Users to use Popaket on Web Browser.",
+      "technologies": ["nuxt"],
+      "startDate": "2020/12/01",
+      "endDate": "2021/05/01",
+      "associated": "Frontend Engineer at Popaket"
+    },
+    {
+      "name": "HolaHalo | Admin Control Panel",
+      "description": "This is a web-based application that is useful for managing HolaHalo marketplace applications, such as checking, payments, managing tenants, managing providers, etc.",
+      "technologies": ["vue"],
+      "startDate": "2019/06/01",
+      "endDate": "2020/08/01",
+      "associated": "Frontend Engineer at PT Holahalo Mekar Konsep"
+    },
+    {
+      "name": "HolaHalo | Travel Marketplace",
+      "description": "HolaHalo Travel Marketplace is a marketplace platform where travel agents can meet travelers.",
+      "technologies": ["vue", "laravel"],
+      "startDate": "2019/06/01",
+      "endDate": "2020/08/01",
+      "associated": "Frontend Engineer at PT Holahalo Mekar Konsep"
+    }
+  ],
+  "skills": {
+    "frontend": ["next", "react", "nuxt", "vue", "tailwind"],
+    "backend": ["laravel"],
+    "deployment": ["vercel"]
+  }
+}
